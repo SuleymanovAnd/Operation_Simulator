@@ -1,0 +1,3 @@
+E:/SkillboxProject/25_practice/Operation_Simulator/cmake-build-debug/CMakeFiles/Operation_Simulator.dir
+E:/SkillboxProject/25_practice/Operation_Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/SkillboxProject/25_practice/Operation_Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
